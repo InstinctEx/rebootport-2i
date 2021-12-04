@@ -16,7 +16,7 @@ Although this solution proved to be quite effective, it turned out to be also qu
 For this reason, the "**RebootPort**" project was born :)
 
 ## How to use
-There are different ways to use the **RebootPOrt** tool.  
+There are different ways to use the **RebootPort** tool.  
 The next paragraphs describe the possible uses.
 
 ### Manual reboot
